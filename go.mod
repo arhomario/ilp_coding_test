@@ -1,0 +1,5 @@
+module ilp_coding_test
+
+go 1.21.0
+
+require github.com/davecgh/go-spew v1.1.1 // indirect
